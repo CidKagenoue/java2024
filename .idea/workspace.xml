@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e7e8ae2-49e2-44d2-9475-d96dd43dc6fc" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Record" />
+        <option value="Exception" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/week3/src/main/java/agenda/AgendaDays.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mHeJDs5WJLQhGtVgBPhtWj7Thp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Hibernate_dog.Main.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Week6.Main.executor": "Run",
+    "Application.agenda.Main.executor": "Run",
+    "Application.iCalander.executor": "Run",
+    "Application.jettyserver.executor": "Run",
+    "Application.les2.appointment.Main.executor": "Run",
+    "Application.les2.shelter.Main.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.shelter.Main.executor": "Run",
+    "Application.starwars.Main.executor": "Run",
+    "Application.zoo.Main.executor": "Run",
+    "JUnit.AnimalClinicV1Test.addAnimal.executor": "Run",
+    "JUnit.AnimalClinicV1Test.addOneAnimal.executor": "Coverage",
+    "JUnit.AnimalClinicV1Test.addTwoAnimals.executor": "Coverage",
+    "JUnit.AnimalClinicV1Test.addTwoSameAnimals.executor": "Run",
+    "JUnit.AnimalClinicV1Test.changeOwnerOfExistingAnimal.executor": "Coverage",
+    "JUnit.AnimalClinicV1Test.changeOwnerOfNonExistingAnimal.executor": "Coverage",
+    "JUnit.AnimalClinicV1Test.count5Animals.executor": "Profiler#1",
+    "JUnit.AnimalClinicV1Test.countZeroAnimals.executor": "Coverage",
+    "JUnit.AnimalClinicV1Test.executor": "Coverage",
+    "JUnit.AnimalClinicV1Test.findAllAnimalsForAllOwners.executor": "Coverage",
+    "JUnit.AnimalClinicV1Test.findAnimal.executor": "Coverage",
+    "JUnit.AnimalClinicV1Test.findOtherAnimalExpectNull.executor": "Coverage",
+    "JUnit.AnimalClinicV1Test.findTwoAnimals.executor": "Coverage",
+    "JUnit.AnimalClinicV2Test.addOneAnimal.executor": "Coverage",
+    "JUnit.AnimalClinicV2Test.executor": "Coverage",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ouali/Desktop/School/AP 2de semester/Java/Week 1/java-labo-wk1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/ouali/Desktop/School/AP 2de semester/Java/Week 1/java-labo-wk1/labgastles/src/main/java/be/ap/student/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ouali\Desktop\School\AP 2de semester\Java\Week 1\java-labo-wk1\week3\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ouali\Desktop\School\AP 2de semester\Java\Week 1\java-labo-wk1\week10" />
+      <recent name="C:\Users\ouali\Desktop\School\AP 2de semester\Java\Week 1\java-labo-wk1\week9\src" />
+      <recent name="C:\Users\ouali\Desktop\School\AP 2de semester\Java\Week 1\java-labo-wk1\Week8\src\main\resources" />
+      <recent name="C:\Users\ouali\Desktop\School\AP 2de semester\Java\Week 1\java-labo-wk1\week3\src\main\resources" />
+      <recent name="C:\Users\ouali\Desktop\School\AP 2de semester\Java\Week 1\java-labo-wk1\week3\src\main\java\Week6" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="clinic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.jettyserver">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="week10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jettyserver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jettyserver" />
+      <module name="week10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalClinicV1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clinic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clinic" />
+      <option name="MAIN_CLASS_NAME" value="clinic.AnimalClinicV1Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalClinicV2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clinic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clinic" />
+      <option name="MAIN_CLASS_NAME" value="clinic.AnimalClinicV2Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalClinicV2Test.addOneAnimal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clinic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clinic" />
+      <option name="MAIN_CLASS_NAME" value="clinic.AnimalClinicV2Test" />
+      <option name="METHOD_NAME" value="addOneAnimal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.jettyserver" />
+        <item itemvalue="JUnit.AnimalClinicV2Test.addOneAnimal" />
+        <item itemvalue="JUnit.AnimalClinicV2Test" />
+        <item itemvalue="JUnit.AnimalClinicV1Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e7e8ae2-49e2-44d2-9475-d96dd43dc6fc" name="Changes" comment="" />
+      <created>1726737855764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726737855764</updated>
+      <workItem from="1726737856916" duration="5562000" />
+      <workItem from="1727341560453" duration="6257000" />
+      <workItem from="1727946113253" duration="6469000" />
+      <workItem from="1728380850420" duration="1788000" />
+      <workItem from="1728551273494" duration="5656000" />
+      <workItem from="1729760495155" duration="6916000" />
+      <workItem from="1730974143210" duration="3510000" />
+      <workItem from="1730977687774" duration="2644000" />
+      <workItem from="1731579118557" duration="6408000" />
+      <workItem from="1732183525895" duration="6093000" />
+      <workItem from="1732189955745" duration="86000" />
+      <workItem from="1732788169008" duration="6854000" />
+      <workItem from="1733392960263" duration="7020000" />
+      <workItem from="1733828322747" duration="793000" />
+      <workItem from="1733829124170" duration="73000" />
+      <workItem from="1733829234688" duration="240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/les1/student/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/week3/src/main/java/be/ap/student/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Week8/src/main/java/be/ap/student/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/week9/src/main/java/be/ap/student/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/labgastles/src/main/java/be/ap/student/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_labo_wk1$AnimalClinicV2Test.ic" NAME="AnimalClinicV2Test Coverage Results" MODIFIED="1732794939014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>clinic.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java_labo_wk1$AnimalClinicV1Test_findTwoAnimals.ic" NAME="AnimalClinicV1Test.findTwoAnimals Coverage Results" MODIFIED="1732790548944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>clinic.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java_labo_wk1$AnimalClinicV1Test_changeOwnerOfNonExistingAnimal.ic" NAME="AnimalClinicV1Test.changeOwnerOfNonExistingAnimal Coverage Results" MODIFIED="1732792383236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>clinic.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java_labo_wk1$AnimalClinicV1Test_countZeroAnimals.ic" NAME="AnimalClinicV1Test.countZeroAnimals Coverage Results" MODIFIED="1732790972225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>clinic.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java_labo_wk1$AnimalClinicV1Test_findAnimal.ic" NAME="AnimalClinicV1Test.findAnimal Coverage Results" MODIFIED="1732790475250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>clinic.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java_labo_wk1$AnimalClinicV1Test_findAllAnimalsForAllOwners.ic" NAME="AnimalClinicV1Test.findAllAnimalsForAllOwners Coverage Results" MODIFIED="1732791595946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>clinic.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java_labo_wk1$AnimalClinicV1Test_findOtherAnimalExpectNull.ic" NAME="AnimalClinicV1Test.findOtherAnimalExpectNull Coverage Results" MODIFIED="1732791371945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>clinic.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java_labo_wk1$AnimalClinicV2Test_addOneAnimal.ic" NAME="AnimalClinicV2Test.addOneAnimal Coverage Results" MODIFIED="1732795022166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>clinic.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java_labo_wk1$AnimalClinicV1Test_changeOwnerOfExistingAnimal.ic" NAME="AnimalClinicV1Test.changeOwnerOfExistingAnimal Coverage Results" MODIFIED="1732792263985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>clinic.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java_labo_wk1$AnimalClinicV1Test_addOneAnimal.ic" NAME="AnimalClinicV1Test.addOneAnimal Coverage Results" MODIFIED="1732789562982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>clinic.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java_labo_wk1$AnimalClinicV1Test_addTwoAnimals.ic" NAME="AnimalClinicV1Test.addTwoAnimals Coverage Results" MODIFIED="1732789739212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>clinic.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java_labo_wk1$AnimalClinicV1Test.ic" NAME="AnimalClinicV1Test Coverage Results" MODIFIED="1732793422922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>clinic.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java_labo_wk1$AnimalClinicV1Test_addTwoSameAnimals.ic" NAME="AnimalClinicV1Test.addTwoSameAnimals Coverage Results" MODIFIED="1732790166541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>clinic.*</FILTER>
+    </SUITE>
+  </component>
+</project>
